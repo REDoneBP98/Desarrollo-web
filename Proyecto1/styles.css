@@ -172,9 +172,6 @@ td{
     border-radius: 20px;
 }
 
-#btn_env{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+input{
+    margin-top: 15px;
 }
